@@ -336,6 +336,13 @@ Open an issue or a pull request.
 
 ---
 
+## Related lists
+
+- [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - property data sources by country
+- [awesome-ecommerce-data-apis](https://github.com/happyendpointhq/awesome-ecommerce-data-apis) - product and pricing data sources
+
+---
+
 ## Maintained by
 
 Maintained by [Happy Endpoint](https://happyendpoint.com), which produces
