@@ -343,6 +343,21 @@ Open an issue or a pull request.
 
 ---
 
+## Disclaimer
+
+This is an independently maintained list. Inclusion does not imply any
+affiliation with, endorsement by, or connection to the organisations listed,
+and no organisation listed has reviewed or approved this list.
+
+All company names, product names, brands, trademarks, and registered trademarks
+are the property of their respective owners, and are used here descriptively to
+identify the services being catalogued.
+
+Access terms, pricing, and availability change without notice. Verify current
+details with the provider before relying on anything here.
+
+---
+
 ## Maintained by
 
 Maintained by [Happy Endpoint](https://happyendpoint.com), which produces
