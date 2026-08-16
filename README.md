@@ -239,6 +239,8 @@ Genuinely free. Several are better than paid equivalents.
 - [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Overpass_API) - Points of interest and infrastructure.
 - [World Bank Open Data](https://data.worldbank.org/) - Global development indicators.
 - [Eurostat](https://ec.europa.eu/eurostat/web/main/data/web-services) - European statistics.
+- [VC Deal Flow Signal](https://signals.gitdealflow.com) - Open GitHub engineering-velocity dataset for 350+ early-stage startups across 15 sectors. Open methodology, point-in-time panel, MCP server for programmatic access.
+
 
 ---
 
