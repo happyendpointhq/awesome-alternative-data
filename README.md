@@ -368,7 +368,7 @@ better starting points than anything paid, including ours.
 
 - Catalogue: [happyendpoint.com/library](https://happyendpoint.com/library)
 - Datasets: [happyendpoint.com/datasets](https://happyendpoint.com/datasets)
-- Contact: happyendpointhq@gmail.com
+- Contact: hello@happyendpoint.com
 
 ## Licence
 
