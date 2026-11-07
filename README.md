@@ -172,6 +172,7 @@ growth that is not there.
 
 - [RavenPack](https://www.ravenpack.com/) - News analytics and sentiment, long established in systematic strategies.
 - [Brandwatch](https://www.brandwatch.com/) - Social listening.
+- [twtData](https://twtdata.com/) - Public X account data as CSV exports (followers, tweets, lists, Spaces). Tweets $0.01 per record, followers from $0.00017 per record, $5.99 minimum. **Free** X trends archive by location.
 - [StockTwits API](https://api.stocktwits.com/developers/docs) - Retail investor sentiment, free tier available.
 - [Reddit API](https://www.reddit.com/dev/api/) - Retail sentiment. Terms and pricing changed substantially in 2023; check current commercial terms.
 - [GDELT Project](https://www.gdeltproject.org/) - **Free.** Global news events, tone, and themes, updated every fifteen minutes. Extraordinary value for zero cost, and consistently underused.
