@@ -218,6 +218,7 @@ real diligence on consent chains here, not just on data quality.
 
 - [Sustainalytics](https://www.sustainalytics.com/) - ESG risk ratings.
 - [MSCI Sustainability and Climate](https://www.msci.com/sustainability-and-climate) - ESG ratings and climate metrics.
+- [Morningstar API (Happy Endpoint)](https://github.com/happyendpointhq/morningstar-api) - Morningstar sustainability assessments alongside quotes, fundamentals and fair value, as JSON. Runnable examples in the repo.
 - [Climate TRACE](https://climatetrace.org/) - **Free.** Independent greenhouse gas emissions inventory by facility, built substantially from satellite data.
 - [CDP](https://www.cdp.net/en/data) - Corporate environmental disclosure.
 - [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) - **Free.** Climate reanalysis and projections.
