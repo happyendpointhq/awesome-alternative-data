@@ -102,6 +102,7 @@ catalogues, listings, reviews, and corporate sites.
 - [Oxylabs](https://oxylabs.io/) - Scraping infrastructure and ready-made datasets.
 - [Zyte](https://www.zyte.com/) - Scraping infrastructure with managed extraction services.
 - [Kadoa](https://www.kadoa.com/) - AI-driven extraction that adapts to site changes automatically.
+- [octofact](https://octofact.com/) - Daily job postings, employer reviews, app store, social metrics, and more for 3.5M+ companies for investors and enterprises. Point-in-time series mapped to tickers and 20+ other identifiers.
 
 ### Retail and consumer
 
