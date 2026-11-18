@@ -120,6 +120,7 @@ mortgage originators, building materials, and regional banks.
 - [HM Land Registry Price Paid](https://landregistry.data.gov.uk/app/ppd/) - **Free.** Every registered residential sale in England and Wales since 1995. Complete, authoritative, point-in-time by construction.
 - [Dubai Pulse DLD transactions](https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open) - **Free.** Full Dubai transaction history, one of the most transparent property markets for data.
 - [ATTOM Data](https://www.attomdata.com/) - US property, deed, mortgage, and foreclosure records.
+- [BatchData](https://batchdata.io) - U.S. property, owner, mortgage, and valuation data covering 169 million+ U.S. parcels, delivered by API and a hosted MCP server.
 - [CoreLogic](https://www.corelogic.com/) - US property records, AVMs, and mortgage risk.
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - Fuller list of property data sources by country.
 
