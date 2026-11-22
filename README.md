@@ -121,6 +121,7 @@ mortgage originators, building materials, and regional banks.
 - [Dubai Pulse DLD transactions](https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open) - **Free.** Full Dubai transaction history, one of the most transparent property markets for data.
 - [ATTOM Data](https://www.attomdata.com/) - US property, deed, mortgage, and foreclosure records.
 - [CoreLogic](https://www.corelogic.com/) - US property records, AVMs, and mortgage risk.
+- [DC Hub](https://dchub.cloud/) - Orchestration layer for data center and energy intelligence. `execute_plan` returns dated, cited answers on data center markets, colocation, energy prices, power grid and interconnection queues, fiber, site selection and capacity, plus the Data Center Power Index (DCPI), a daily score of where data centers can get grid power. Remote MCP server (`https://dchub.cloud/mcp`) and REST API; previews need no key and `DCHUB_API_KEY` is optional. Relevant to data center REITs, utilities and digital infrastructure.
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - Fuller list of property data sources by country.
 
 Listing counts and days-on-market often turn before transaction prices do, which
