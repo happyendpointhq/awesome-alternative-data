@@ -108,6 +108,12 @@ catalogues, listings, reviews, and corporate sites.
 - [Happy Endpoint](https://happyendpoint.com/library) - Real-time APIs and bulk snapshots for retail and property portals: Tesco, IKEA, Sephora, H&M, Kohl's, Klarna, and others. Self-serve with free tiers, which makes it usable for research before a procurement cycle.
 - [Rainforest API](https://www.rainforestapi.com/) - Amazon product, pricing, and review data.
 - [Keepa](https://keepa.com/#!api) - Amazon price history going back years. Notable because the history genuinely exists, unlike most price datasets.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
+- [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
+- [Calibration Ledger](https://apify.com/publicrecords/calibration-ledger) - Forecast track records (IMF, OECD, Fed, ECB SPF): forecast errors and bias by organization (Apify Actor, API + MCP).
 
 ---
 
